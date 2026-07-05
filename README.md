@@ -11,6 +11,3 @@ The robot’s only purpose is to balance a ball on a glass/acrylic platform. It 
 Here is a video showing the build and explanation:
 
 [![Ball Balancing Robot Video](https://img.youtube.com/vi/7ntZtRzPJNo/0.jpg)](https://www.youtube.com/watch?v=7ntZtRzPJNo)
-
-Or watch directly:
-:contentReference[oaicite:0]{index=0}
