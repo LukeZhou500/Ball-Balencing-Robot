@@ -1,0 +1,7 @@
+Item Name,Qty,Price (total) (USD),Item link,Notes
+Raspberry Pi 4B + SD card + powersupply,1,~100,Too generic for link,"Doesn't have to be a 4b, but it shouldnt be too much weaker because the computer vision is heavy"
+Wide angle camera,1,~15,https://www.amazon.com/Raspberry-Camera-Module-160FOV-Fisheye/dp/B083XMGSVP/ref=sr_1_3?sr=8-3,FOV of around 160 would be good
+Screws,"4 M2, 10+ M3, 3+ M4",~10,https://www.amazon.com/Assortment-M2-M3-M4-M5/dp/B0DBLCHK48/ref=sr_1_9?sr=8-9,"If you don't have any screws I recomend gettting a kit with assorted screw lengths with M2, M3, M4"
+20 KG servo,3,20 each,Too generic for link,A decent 20kg standered servo
+3D printed parts,See CAD,"Varies, estimate 20",Too generic for link,
+Acrylic Panel 6in diameter 1/4 depth,1,10,https://www.amazon.com/Plexiglass-Diameter-Acrylic-Circle-Backdrop/dp/B09ZSYX99P/ref=sr_1_5?sr=8-5,Amazon 2 kit but only 1 needed
