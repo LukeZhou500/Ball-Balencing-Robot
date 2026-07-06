@@ -12,4 +12,4 @@ Here is a video showing the build and explanation:
 
 [![Ball Balancing Robot Video](https://img.youtube.com/vi/7ntZtRzPJNo/0.jpg)](https://www.youtube.com/watch?v=7ntZtRzPJNo)
 
-AI note: I used AI to help do the syntax/library stuff, and to debug errors.
+I used AI assistance for debugging and library/syntax support.
