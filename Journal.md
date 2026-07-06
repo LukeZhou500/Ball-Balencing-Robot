@@ -43,9 +43,7 @@ This picture shows the CAD model of the base, the 3 rectangular sections are mea
 
 I bought 3 20kg servos, these were much better, and I actually used it in the final project. I also got a phone so I have a video now.
 
-<video controls width="800">
-  <source src="https://github.com/user-attachments/assets/66a18712-17ef-4c83-ba56-ccc3214245ea" type="video/mp4">
-</video>
+▶ Video: https://github.com/user-attachments/assets/66a18712-17ef-4c83-ba56-ccc3214245ea
 
 ---
 
@@ -53,9 +51,7 @@ I bought 3 20kg servos, these were much better, and I actually used it in the fi
 
 I realized that my top platform was WAY too big, and my entire design was way too flimsy, so I completely remade the CAD.
 
-<video controls width="800">
-  <source src="https://github.com/user-attachments/assets/3edda55c-6e69-4948-bfae-6c81fb5bd675" type="video/mp4">
-</video>
+▶ Video: https://github.com/user-attachments/assets/3edda55c-6e69-4948-bfae-6c81fb5bd675
 
 ---
 
@@ -69,9 +65,7 @@ I implemented the inverse kinematics into the robot. I actually had experience w
 
 I fine tuned the CAD, and 3D printed it on my A1 mini. I also got an adjustable power supply that can actually supply enough amperage. This allowed me to get a robot mechanism that looked like it was very sturdy and would work.
 
-<video controls width="800">
-  <source src="https://github.com/user-attachments/assets/80a28c44-ffd9-41d4-be03-82f9cb3cf3cc" type="video/mp4">
-</video>
+▶ Video: https://github.com/user-attachments/assets/80a28c44-ffd9-41d4-be03-82f9cb3cf3cc
 
 ---
 
@@ -87,9 +81,7 @@ I started tuning the computer vision. The main strategy was to have the ball be 
 
 I was almost done with this project, all that was left to do was the "simple" task of tuning the PID.
 
-<video controls width="800">
-  <source src="https://github.com/user-attachments/assets/ee772e6e-aaa9-4394-bfa0-724793c38a50" type="video/mp4">
-</video>
+▶ Video: https://github.com/user-attachments/assets/ee772e6e-aaa9-4394-bfa0-724793c38a50
 
 This was actually my first time tuning PID, so I made a pretty simple but devastating mistake where the error/offset was always positive. This made it so that no matter how I tuned it, it would still be unstable. In the end I managed to tune the PID so that it can balance the ball.
 
