@@ -21,7 +21,7 @@ Note: During this period I did not have a phone, and I have fully reinstalled my
 
 ## Major progress #2 — Working camera Raspberry Pi — 3-1-2025
 
-I got the Raspberry Pi's camera to work. I struggled a lot with the operating system version of Bookworm vs Bullseye. Since I used a Raspberry Pi 4, and most tutorials new tutorials were for a Pi 5 I couldn't find any way to get the camera to work with the latest Raspberry Pi OS. I decided to just use a legacy version, and it worked. I also remember wasting I think 2 full weeks troubleshooting why the camera wouldn't work, and it was because I needed to include sudo.
+I got the Raspberry Pi's camera to work. I struggled a lot with the operating system version of Bookworm vs Bullseye. Since I used a Raspberry Pi 4, and most tutorials were for a Pi 5 I couldn't find any way to get the camera to work with the latest Raspberry Pi OS. I decided to just use a legacy version, and it worked. I also remember wasting I think 2 full weeks troubleshooting why the camera wouldn't work, and it was because I needed to include sudo.
 
 ---
 
@@ -41,17 +41,13 @@ This picture shows the CAD model of the base, the 3 rectangular sections are mea
 
 ## Major progress #4 — Better servo — 7-5-2025
 
-I bought 3 20kg servos, these were much better, and I actually used it in the final project. I also got a phone so I have a video now.
-
-▶ Video: https://github.com/user-attachments/assets/66a18712-17ef-4c83-ba56-ccc3214245ea
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/user-attachments/assets/66a18712-17ef-4c83-ba56-ccc3214245ea)
 
 ---
 
 ## Major progress #5 — Complete remodel — 7-9-2025
 
-I realized that my top platform was WAY too big, and my entire design was way too flimsy, so I completely remade the CAD.
-
-▶ Video: https://github.com/user-attachments/assets/3edda55c-6e69-4948-bfae-6c81fb5bd675
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/user-attachments/assets/3edda55c-6e69-4948-bfae-6c81fb5bd675)
 
 ---
 
@@ -63,9 +59,7 @@ I implemented the inverse kinematics into the robot. I actually had experience w
 
 ## Major progress #7 — Actually good design — 7-20-2025
 
-I fine tuned the CAD, and 3D printed it on my A1 mini. I also got an adjustable power supply that can actually supply enough amperage. This allowed me to get a robot mechanism that looked like it was very sturdy and would work.
-
-▶ Video: https://github.com/user-attachments/assets/80a28c44-ffd9-41d4-be03-82f9cb3cf3cc
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/user-attachments/assets/80a28c44-ffd9-41d4-be03-82f9cb3cf3cc)
 
 ---
 
@@ -79,9 +73,7 @@ I started tuning the computer vision. The main strategy was to have the ball be 
 
 ## Major progress #10 — PID — 8-25-2025
 
-I was almost done with this project, all that was left to do was the "simple" task of tuning the PID.
-
-▶ Video: https://github.com/user-attachments/assets/ee772e6e-aaa9-4394-bfa0-724793c38a50
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/user-attachments/assets/ee772e6e-aaa9-4394-bfa0-724793c38a50)
 
 This was actually my first time tuning PID, so I made a pretty simple but devastating mistake where the error/offset was always positive. This made it so that no matter how I tuned it, it would still be unstable. In the end I managed to tune the PID so that it can balance the ball.
 
